@@ -1,0 +1,2 @@
+void initSevenSegment();
+void countdown();
